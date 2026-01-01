@@ -1,11 +1,11 @@
-
 {
   "name": "warehouse-yms-v3",
   "version": "3.0.0",
+  "type": "module",
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
