@@ -1,0 +1,8 @@
+{
+  "name": "Warehouse YMS V7",
+  "description": "Warehouse Yard Management System for driver check-in, queue management, and dock scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
